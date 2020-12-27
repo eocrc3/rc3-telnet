@@ -3,7 +3,8 @@
     {
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":98,
@@ -1334,6 +1335,15 @@
                         }]
                 }, 
                 {
+                 "id":781,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":791,
                  "properties":[
                         {
@@ -1344,6 +1354,15 @@
                 }, 
                 {
                  "id":811,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":812,
                  "properties":[
                         {
                          "name":"collides",
