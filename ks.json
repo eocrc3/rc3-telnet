@@ -49,7 +49,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/telnet.klartext-reden.net\/kidsspace.html"
+                 "value":"https:\/\/telnet.klartext-reden.net"
                 }],
          "type":"tilelayer",
          "visible":true,
