@@ -194,6 +194,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"rc3-Legotepich",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -207,6 +213,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"rc3-Minecraftteppich",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -220,6 +232,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"rc3-technikraumteppich",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -233,6 +251,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"starbottem",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -267,6 +291,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"rC3_GrassBoden",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -329,6 +359,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"batman",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -352,6 +388,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"rc3-black",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -365,6 +407,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"groot",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -388,6 +436,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"rc3-Brunnen1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -481,6 +535,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"rc3-brunnen2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -561,6 +621,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"rc3-brunnen3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -628,6 +694,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"rc3-brunnen4",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -695,6 +767,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"Tafel-kid",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":42,
          "tileheight":32,
@@ -877,6 +955,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"hecke",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -931,6 +1015,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"tisch",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -954,6 +1044,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"LegoWinkekatze",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -1000,6 +1096,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"rC3_MC_Netherportal",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -1038,6 +1140,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"Minecraftenter",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -1079,6 +1187,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"empfang-tisch",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -1129,6 +1243,12 @@
          "imagewidth":993,
          "margin":0,
          "name":"telnet_tileset_6",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":961,
          "tileheight":32,
