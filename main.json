@@ -3,8 +3,7 @@
     {
      "export":
         {
-         "format":"json",
-         "target":"."
+         "format":"json"
         }
     },
  "height":98,
@@ -15,6 +14,8 @@
          "height":98,
          "id":1,
          "name":"start",
+         "offsetx":0,
+         "offsety":2,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -446,7 +447,7 @@
  "nextobjectid":5,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -3118,6 +3119,15 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"BSD"
+                        }]
+                }, 
+                {
                  "animation":[
                         {
                          "duration":350,
@@ -4862,6 +4872,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":98
 }
