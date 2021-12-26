@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":20,
  "infinite":false,
  "layers":[
@@ -132,7 +125,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"2020.11.25",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -143,6 +136,12 @@
          "imagewidth":993,
          "margin":0,
          "name":"telnet_tileset_6",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":961,
          "tileheight":32,
@@ -762,6 +761,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"draht",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -775,6 +780,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"starbottem",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -805,6 +816,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"rc3-map_utilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"BSD"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -812,6 +829,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":40
 }
