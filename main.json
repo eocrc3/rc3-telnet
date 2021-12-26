@@ -286,6 +286,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"telnet-tresen"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -356,6 +361,17 @@
  "nextlayerid":36,
  "nextobjectid":5,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"12\/2021 Telnet"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Telnet Assembly"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
