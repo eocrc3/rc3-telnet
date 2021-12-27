@@ -101,12 +101,6 @@
          "id":10,
          "name":"www-telnet",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/telnet.klartext-reden.net\/"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -119,12 +113,6 @@
          "id":27,
          "name":"www-kids",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/telnet.klartext-reden.net\/kidsspace.html"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -137,12 +125,6 @@
          "id":26,
          "name":"www-can",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/telnet.klartext-reden.net\/can.html"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -155,12 +137,6 @@
          "id":25,
          "name":"www-cat",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/telnet.klartext-reden.net\/cat.php"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -173,12 +149,6 @@
          "id":30,
          "name":"www-catonly",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/telnet.klartext-reden.net\/catonly.html"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -191,12 +161,6 @@
          "id":31,
          "name":"www-canonly",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/telnet.klartext-reden.net\/canonly.html"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -209,12 +173,6 @@
          "id":32,
          "name":"www-canterminal",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/telnet.klartext-reden.net\/canterminal.php"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -227,12 +185,6 @@
          "id":33,
          "name":"www-shirts",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/telnet.klartext-reden.net\/shirts.html"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
